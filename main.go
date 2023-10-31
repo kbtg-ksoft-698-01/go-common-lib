@@ -1,6 +1,6 @@
 package main
 
-import "hello-world/hello"
+import "go-common-lib/hello"
 
 func main() {
     hello.HelloWorld()
