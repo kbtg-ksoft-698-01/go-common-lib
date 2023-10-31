@@ -1,3 +1,3 @@
-module github.com/tanawanko/go-common-lib
+module github.com/kbtg-ksoft-698-01/go-common-lib
 
 go 1.17
